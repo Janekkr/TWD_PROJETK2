@@ -13,12 +13,12 @@ Pomysły, które chcieliśmy ogarniać:
   5.  __top używanych słów__ (top_slowa_reakcje.R)
   6.  __timeline pisania wiadomości, czyli kiedy się ich duzo pisało itd__ (liczenie_slow.R) 
   7.  porownanie ilosci wiadomosci w gupach i w osobistych konwersacjach
-  8.  ogarnięcie dni w ktorych duzo roznych osob do ciebie napisala
+  8.  __ogarnięcie dni w ktorych duzo roznych osob do ciebie napisala__ (rozne_osoby.R)
   9.  ilosc uzytkownikow ktorym nigdy nie odpisales
   10.  podliczanie top emoji / emotek
   11.  __podliczenie top reakcji__ (top_slowa_reakcje.R)
   12.  lokalizacja
-  13.  liczba zdjęć/filmów
+  13.  __liczba zdjęć/filmów__  (filmy_zdjecia.R)
   14.  gierki messengerowe
   15.  godziny, w których się pisze wiadomości (do tego trzeba jakoś ogarnąć kolumnę timestamp_ms dodatkowo, bo w Date_Y_M_D zrobiłem że nie ma godziny, ewentualnie dodać godzinę w tej kolumnie)
   16.  coś z zaproszeniami do znajomych i o tym czy mamy uprzedzenia względem jakiegoś imienia
